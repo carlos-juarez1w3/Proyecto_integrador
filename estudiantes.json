@@ -1,0 +1,39 @@
+[
+    {
+        "carnet": "25-02395-0",
+        "nombre": "Carlos Alfonso Juarez Chevez",
+        "estado_civil": "Viudo",
+        "sexo": "M",
+        "cedula": "100-123456-2222J",
+        "direccion": "Los Mangles",
+        "departamento": "Chinandega",
+        "municipio": "El Viejo",
+        "area_conocimiento": "Ciencias Y Tecnologia",
+        "carrera": "Ingeneria En Sistemas",
+        "anio": 1,
+        "plan_estudio": "2025",
+        "ingreso_padre": 7000.0,
+        "notas": [
+            {
+                "materia": "Calculo",
+                "nota": 73.0
+            },
+            {
+                "materia": "Programacion",
+                "nota": 78.0
+            },
+            {
+                "materia": "Historia",
+                "nota": 95.0
+            },
+            {
+                "materia": "Habilidades ",
+                "nota": 89.0
+            },
+            {
+                "materia": "Maquetacion",
+                "nota": 87.0
+            }
+        ]
+    }
+]
